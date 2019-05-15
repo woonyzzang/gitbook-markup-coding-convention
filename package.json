@@ -1,0 +1,17 @@
+{
+  "name": "coding-convention",
+  "version": "1.0.0",
+  "description": "HTML, CSS, JavaScript 코딩 컨벤션 가이드북 입니다.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gitbook": "gitbook"
+  },
+  "keywords": [
+    "gitbook"
+  ],
+  "author": "woonyzzang",
+  "license": "ISC",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
