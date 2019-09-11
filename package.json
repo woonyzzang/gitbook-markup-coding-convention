@@ -1,5 +1,5 @@
 {
-  "name": "coding-convention",
+  "name": "gitbook-markup-coding-convention",
   "version": "1.0.0",
   "description": "HTML, CSS, JavaScript 코딩 컨벤션 가이드북 입니다.",
   "scripts": {
